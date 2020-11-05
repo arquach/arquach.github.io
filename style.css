@@ -1,0 +1,31 @@
+
+#sitename {
+	text-align: center;
+	clear: both;
+	margin-bottom: .5em;
+}
+a {
+	color: #4C9F70;
+}
+
+h1, p{
+	color: #FFFCF2;
+}
+hr {
+	border: 0;
+	border-top: 1px solid rgba(255, 252, 242, 0.7);
+	box-sizing: content-box;
+	height: 0;
+	overflow: visible;
+}
+ p{
+ 	line-height: 1.6;
+ 	  
+ }
+
+head,
+body{
+	font-family: 'Noto Sans', sans-serif;
+	background: #252422 ;
+	/*font-family: 'Montserrat', sans-serif;*/
+}
